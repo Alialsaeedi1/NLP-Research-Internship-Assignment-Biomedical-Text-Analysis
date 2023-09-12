@@ -14,7 +14,7 @@ This assignment serves as a screening test for our internship program. It is des
 
 - Assignment version: 1.0
 - Last updated: 12 September 2023
-- Estimated time: **8-10 hours**
+- Estimated time: **2-5 hours**
 - Deadline: **27th of September 2023**
 
 ## Objective
