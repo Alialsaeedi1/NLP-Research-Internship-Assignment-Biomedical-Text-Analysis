@@ -28,17 +28,6 @@ Welcome to your internship test assignment! 🚀 Your mission, should you choose
 ### Prerequisites
 - Python 3.x
 
-### Required Packages/Libraries
-The assignment requires the following Python packages:
-
-- NumPy
-- pandas
-- scikit-learn
-- nltk
-- spaCy
-- biopython
-- requests
-
 ### Installation
 You can install the required packages using pip. We have included a `requirements.txt` file for easier setup.
 
@@ -66,7 +55,7 @@ Example:
 
 Suppose you are interested in "Cancer Immunotherapy". Your task would be to extract relevant abstracts that deal with this topic from PubMed. Explain why you've chosen this particular topic.
 
-For this task, please refer to the `data_extraction_starter.py` template Python script provided in this repository.
+For this task, please refer to the `data_extraction_starter.ipynb` template Jupyter notebook script provided in this repository.
 
 #### 2. Advanced NLP analysis
 For this part, apply advanced NLP techniques to derive valuable insights from the abstracts you've gathered. This is your chance to showcase your NLP skills.
