@@ -1,7 +1,3 @@
-<img src="https://github.com/ksamaritakis/NLP-Research-Internship-Assignment-Biomedical-Text-Analysis/assets/5954537/1bc52ec8-a511-4233-a270-63f8c845f075" width="50%" height="auto">
-
-<br>
-
 # NLP Research Internship Assignment Biomedical Text Analysis
 [![Twitter Follow](https://img.shields.io/twitter/follow/ksamaritakis?style=social)](https://twitter.com/ksamaritakis) 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ksamaritakis/)
